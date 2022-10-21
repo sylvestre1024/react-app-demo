@@ -1,4 +1,4 @@
-import './App.css';
+import './style/App.scss';
 import Login from "./components/Login";
 import Welcome from "./components/Welcome";
 
